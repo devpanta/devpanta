@@ -1,10 +1,16 @@
 # Hey there! 💪
 
-Sou **Celton Panta**, Desenvolvedor de Software focado em automação e sistemas, baseado em Basil.
+I'm **Celton Panta** 👨‍💻, a software developer focused on **automation** and **systems**, based in Brazil 🇧🇷.
 
----
+Currently, I'm studying **Analysis and Systems Development** 🎓 and I spend my time designing and building solutions that streamline processes. If a task can be automated, chances are I'll build a bot to solve it 🤖.
 
-### 🚀 Tecnologias e Ferramentas:
+My main **tech stack** involves **Python 🐍, Node.js ⚡, and automation**. I also have experience with IT infrastructure 🛠️ and cloud resource simulation using CloudSim ☁️.
+
+In my free time, I explore the frontiers of **Prompt Engineering** 🧠 and create realistic visual content with generative AI.
+
+I've got a bunch of pinned projects below, but my main focus is developing productivity tools and intelligent bots. If you want to see how I do it, my portfolio is available here! 🚀
+
+### Tools & Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -14,22 +20,16 @@ Sou **Celton Panta**, Desenvolvedor de Software focado em automação e sistemas
 
 ---
 
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e dedico meu tempo a projetar e construir soluções que facilitam processos. Se uma tarefa pode ser automatizada, eu provavelmente vou construir um bot para resolvê-la.
-
-Minha **tech stack** principal envolve **Python, Node.js e automação**. Também tenho experiência com infraestrutura de TI e simulação de recursos em nuvem usando CloudSim.
-
-No meu tempo livre, exploro as fronteiras da **Engenharia de Prompt** e crio conteúdos visuais realistas com IA generativa.
-
-Se você quer ver o que estou construindo, meus repositórios principais estão pinados logo abaixo!
-
 ### Fun Facts:
-* 🏠 **Remote First:** Entusiasta do Home Office e focado em produtividade remota.
-* 🤖 **Bot Builder:** Especialista em transformar tarefas manuais em scripts automáticos.
-* 🧠 **AI Prompt Engineer:** Explorando modelos de IA para criar conteúdos visuais e automações.
-* 🛠️ **Problem Solver:** Gosto de entender como as coisas funcionam, do hardware ao código.
-* 🕹️ **Hobbies:** Automação, tecnologia e novos frameworks.
 
+* 🏠 **Remote First:** Home Office enthusiast focused on remote productivity.
+* 🤖 **Bot Builder:** Specialist in transforming manual tasks into automated scripts.
+* 🧠 **AI Prompt Engineer:** Pushing the limits of AI models for visual content and automation.
+* 🛠️ **Problem Solver:** I love understanding how things work, from hardware to code.
+* 🕹️ **Hobbies:** Automation, technology, and exploring new frameworks.
 
+---
 
+### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celton-panta-47037521b/)
