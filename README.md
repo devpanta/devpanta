@@ -28,7 +28,6 @@ I've got a bunch of pinned projects below, but my main focus is developing produ
 * 🛠️ **Problem Solver:** I love understanding how things work, from hardware to code.
 * 🕹️ **Hobbies:** Automation, technology, and exploring new frameworks.
 
----
 
 ### Connect with me:
 
