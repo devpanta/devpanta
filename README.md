@@ -1,6 +1,6 @@
 # Hey there! 💪
 
-Sou **Celton Panta**, Desenvolvedor de Software focado em automação e sistemas, baseado em Maceió, Alagoas.
+Sou **Celton Panta**, Desenvolvedor de Software focado em automação e sistemas, baseado em Basil.
 
 ---
 
