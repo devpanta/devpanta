@@ -1,19 +1,35 @@
+# Hey there! 💪
 
-### Olá! eu sou o Celton Panta 👋
+Sou **Celton Panta**, Desenvolvedor de Software focado em automação e sistemas, baseado em Maceió, Alagoas.
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@devcelton)
+---
+
+### 🚀 Tecnologias e Ferramentas:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** e dedico meu tempo a projetar e construir soluções que facilitam processos. Se uma tarefa pode ser automatizada, eu provavelmente vou construir um bot para resolvê-la.
+
+Minha **tech stack** principal envolve **Python, Node.js e automação**. Também tenho experiência com infraestrutura de TI e simulação de recursos em nuvem usando CloudSim.
+
+No meu tempo livre, exploro as fronteiras da **Engenharia de Prompt** e crio conteúdos visuais realistas com IA generativa.
+
+Se você quer ver o que estou construindo, meus repositórios principais estão pinados logo abaixo!
+
+### Fun Facts:
+* 🏠 **Remote First:** Entusiasta do Home Office e focado em produtividade remota.
+* 🤖 **Bot Builder:** Especialista em transformar tarefas manuais em scripts automáticos.
+* 🧠 **AI Prompt Engineer:** Explorando modelos de IA para criar conteúdos visuais e automações.
+* 🛠️ **Problem Solver:** Gosto de entender como as coisas funcionam, do hardware ao código.
+* 🕹️ **Hobbies:** Automação, tecnologia e novos frameworks.
 
 
-### Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
- <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="center" alt="Workspace" src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" />
-<img align="center" alt="Json web tokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-</div><br>
 
-Apaixonado por tecnologia  | developer.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celton-panta-47037521b/)
